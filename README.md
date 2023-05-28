@@ -1,6 +1,6 @@
 # convection-and-infrasound
 
-This repository contains the following files that are associated with the Alter et al. manuscript that was submitted to JGR Atmospheres:
+This repository contains the following files that are associated with the Alter et al. manuscript "The influence of mesoscale atmospheric convection on local infrasound propagation", which has been accepted for publication in JGR Atmospheres:
 1) Scripts for configuring the WRF meteorological model for simulations, and
 2) Data to reproduce the figures in the manuscript.
 
@@ -17,7 +17,7 @@ Ross E. Alter<sup>1*</sup>, Michelle E. Swearingen<sup>2</sup>, and Mihan H. McK
 September 2022
 
 ## Purpose
-This repository contains data used by Alter et al. for the manuscript "The influence of mesoscale atmospheric convection on local infrasound propagation", which has been submitted for publication in JGR Atmospheres.
+This repository contains data used by Alter et al. for the manuscript "The influence of mesoscale atmospheric convection on local infrasound propagation", which has been accepted for publication in JGR Atmospheres.
 
 ## Data
 This repository contains two directories of files associated with the Alter et al. manuscript:
